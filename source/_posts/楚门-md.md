@@ -1,0 +1,22 @@
+---
+title: 楚门.md
+date: 2021-05-02 11:00:11
+tags:
+    - 影视
+categories:
+    - 摘录
+---
+
+Good morning,
+
+and in case I don't see you,
+
+Good afternoon,
+
+Good evening,
+
+And good night.
+
+
+
+——楚门的世界
